@@ -1,0 +1,5 @@
+# My github used for this project
+https://github.com/KuongT/Diet-Android-App
+
+#Final submitted project with updated readme
+https://github.com/KevinDelao/Diet-Android-App
